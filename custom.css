@@ -1,3 +1,28 @@
-.m-t-40{
-	margin-top: 40px;
+.m-t-5{
+	margin-top: 5em;
+}
+
+.m-l-1{
+	margin-left: 1em;
+}
+
+.m-l-2{
+	margin-left: 2em;
+}
+
+.m-l-3{
+	margin-left: 3em;
+}
+
+.m-l-4{
+	margin-left: 4em;
+}
+
+iframe{
+	display: block;
+	margin: auto;
+}
+
+.primary-color{
+	color:#337ab7 !important;
 }
