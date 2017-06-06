@@ -31,3 +31,7 @@ iframe{
 	margin-left: 1em;
 	margin-right: 1em;
 }
+
+.max-width{
+	max-width: 100%;
+}
