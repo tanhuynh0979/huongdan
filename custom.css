@@ -26,3 +26,8 @@ iframe{
 .primary-color{
 	color:#337ab7 !important;
 }
+
+.m-x-1{
+	margin-left: 1em;
+	margin-right: 1em;
+}
